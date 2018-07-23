@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
 
 body {
+    font-family:'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
     margin: 60px auto;
     width: 70%;
 }
@@ -24,6 +25,9 @@ a:hover {
 }
 h1 {
     font-size: 3em;
+    font-family:'Open Sans', 'Helvetica', 'Arial', 'Sans-Serif';
+}
+h2, h3, h4, h5, h6 {
     font-family:'Open Sans', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
