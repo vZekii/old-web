@@ -1,3 +1,6 @@
 title: Breaking Python
 description: Don't read this
-theme: jekyll-theme-midnight
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
