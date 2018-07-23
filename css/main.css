@@ -1,4 +1,6 @@
 /* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -22,10 +24,11 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Open Sans', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1.5em;
+    font-family:'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #333;
 }
